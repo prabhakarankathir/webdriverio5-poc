@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Verify Sign Up page is displayed on clicking SignUp button",
+    "uid" : "19b75cf2ae93ed08",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1562873855102,
+      "stop" : 1562873866002,
+      "duration" : 10900
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  } ]
+}

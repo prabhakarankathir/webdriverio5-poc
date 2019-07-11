@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1562873855068' stop='1562873866009'>
+    <name>Authentication Suite</name>
+    <title>Authentication Suite</title>
+    <test-cases>
+        <test-case start='1562873855102' status='passed' stop='1562873866002'>
+            <name>Verify Sign Up page is displayed on clicking SignUp button</name>
+            <title>Verify Sign Up page is displayed on clicking SignUp button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='1f2c6dbb-1cce-4443-b4f7-4ca127f8fcb4-attachment.mp4' type='video/mp4' size='162'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

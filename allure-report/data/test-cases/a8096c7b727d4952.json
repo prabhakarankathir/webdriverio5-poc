@@ -1,0 +1,71 @@
+{
+  "uid" : "a8096c7b727d4952",
+  "name" : "Verify Sign Up page is displayed on clicking SignUp button",
+  "fullName" : "Authentication Suite.Verify Sign Up page is displayed on clicking SignUp button",
+  "historyId" : "f99e90e72fbcf65cdb9db41baccafc80",
+  "time" : {
+    "start" : 1562873682794,
+    "stop" : 1562873693294,
+    "duration" : 10500
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "daee75897cdeda29",
+      "name" : "Execution video",
+      "source" : "daee75897cdeda29.mp4",
+      "type" : "video/mp4",
+      "size" : 162
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Authentication Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Authentication Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Sign Up page is displayed on clicking SignUp button"
+  }, {
+    "name" : "package",
+    "value" : "Authentication Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8096c7b727d4952.json",
+  "parameterValues" : [ "chrome" ]
+}

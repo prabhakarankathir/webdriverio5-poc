@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Authentication Suite",
+    "children" : [ {
+      "name" : "Verify Sign Up page is displayed on clicking SignUp button",
+      "uid" : "19b75cf2ae93ed08",
+      "parentUid" : "b63b67cff1c4f59d2c1da070c480f019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562873855102,
+        "stop" : 1562873866002,
+        "duration" : 10900
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "b63b67cff1c4f59d2c1da070c480f019"
+  } ]
+}
